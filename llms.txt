@@ -1,0 +1,20 @@
+# OverUX
+
+> OverUX is an independent research model for UX oversight: structured pre-release inspection of interface behavior, evidence and unresolved uncertainty to support release decisions.
+
+Canonical: https://overux.com/
+
+## Core routes
+- https://overux.com/oversight/ — working category definition and terminology
+- https://overux.com/framework/ — OAF-001 v0.1 research framework
+- https://overux.com/sources/ — source register and evidence classes
+- https://overux.com/acquire/ — strategic acquisition information
+
+## Claim boundary
+OverUX and OAF-001 are not standards, certifications, W3C/ISO conformity schemes, or substitutes for user research. External standards and research are cited with their authority class intact.
+
+## OAF-001 dimensions
+C1 Clarity; C2 Continuity; F1 Friction; A1 Accessibility; T1 Trust; R1 Recovery.
+
+## Decision states
+Not assessed; Review; Block; Release. No composite UX score is defined in v0.1.
